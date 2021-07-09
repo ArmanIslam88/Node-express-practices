@@ -1,0 +1,20 @@
+{
+  "name": "7.lesson-5",
+  "version": "1.0.0",
+  "description": "npm testing project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "nodejs",
+    "modemon"
+  ],
+  "author": "Arman Islam reyan",
+  "license": "ISC",
+  "dependencies": {
+    "movies-names": "^1.1.1",
+    "random-fruits-name": "^1.9.0"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "8.lesson-6",
+  "version": "1.0.0",
+  "description": "create http routing and nodemon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "arman islam reyan",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
